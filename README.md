@@ -1,4 +1,5 @@
-# waimai_admin
+# Wx_os_back
+![image](https://github.com/Chicksqace/Wx_os_back/assets/96372678/1c6e87bf-493b-4249-b579-f556ebd95781)
 
 ## Project setup
 ```
@@ -15,5 +16,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
